@@ -1,0 +1,2 @@
+# IntentLang
+lang
